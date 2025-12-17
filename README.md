@@ -107,19 +107,6 @@ High Status WaveForm :
 
 
 
-## 🚀 How to Run
-
-1. Clone this repo:
-
-   git clone [https://github.com/kishorekumarsamiyappan/Smart-Fan-Controller-Using-AT89C51-Microcontroller.git]
-
-2. Open Temp Fan Control.pdsprj in Proteus 8.17
-
-3. Upload the source code to the AT89C51 emulator
-
-4. Simulate and test across various temperatures
-
-
 
 ## 🧩 Real-World Use Cases
 
